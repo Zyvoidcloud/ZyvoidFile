@@ -1,0 +1,20 @@
+{
+  "usersData": {
+    "users": [
+      {
+        "id": "yy",
+        "name": "hh",
+        "balance": 10000,
+        "lastUpdate": "2025-06-04T01:33:44.735Z"
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "userId": "yy",
+      "userName": "hh",
+      "amount": 10000,
+      "timestamp": "2025-06-04T01:33:44.735Z"
+    }
+  ]
+}
