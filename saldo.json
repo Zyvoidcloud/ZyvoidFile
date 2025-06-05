@@ -1,20 +1,10 @@
 {
-  "usersData": {
-    "users": [
-      {
-        "id": "yy",
-        "name": "hh",
-        "balance": 10000,
-        "lastUpdate": "2025-06-04T01:33:44.735Z"
-      }
-    ]
-  },
+  "users": [
+    {"id": "user001", "name": "Budi", "balance": 50000, "lastUpdate": "2023-08-01T10:00:00Z"},
+    {"id": "user002", "name": "Ani", "balance": 100000, "lastUpdate": "2023-08-01T11:00:00Z"}
+  ],
   "transactions": [
-    {
-      "userId": "yy",
-      "userName": "hh",
-      "amount": 10000,
-      "timestamp": "2025-06-04T01:33:44.735Z"
-    }
+    {"userId": "user001", "amount": 50000, "timestamp": "2023-08-01T10:00:00Z"},
+    {"userId": "user002", "amount": 100000, "timestamp": "2023-08-01T11:00:00Z"}
   ]
 }
