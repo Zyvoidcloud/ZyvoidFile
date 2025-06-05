@@ -1,0 +1,782 @@
+[{"Afghanistan": {
+ "points": 8887786,
+ "participation": 870,
+ "code": "AF"
+}},{"Albania": {
+ "points": 7263,
+ "participation": 6373,
+ "code": "AL"
+}},{"Algeria": {
+ "points": 0,
+ "participation": 0,
+ "code": "DZ"
+}},{"Andorra": {
+ "points": 0,
+ "participation": 0,
+ "code": "AD"
+}},{"Angola": {
+ "points": 0,
+ "participation": 0,
+ "code": "AO"
+}},{"Antigua and Barbuda": {
+ "points": 0,
+ "participation": 0,
+ "code": "AG"
+}},{"Argentina": {
+ "points": 0,
+ "participation": 0,
+ "code": "AR"
+}},{"Armenia": {
+ "points": 0,
+ "participation": 0,
+ "code": "AM"
+}},{"Australia": {
+ "points": 0,
+ "participation": 0,
+ "code": "AU"
+}},{"Austria": {
+ "points": 0,
+ "participation": 0,
+ "code": "AT"
+}},{"Azerbaijan": {
+ "points": 0,
+ "participation": 0,
+ "code": "AZ"
+}},{"Bahamas": {
+ "points": 0,
+ "participation": 0,
+ "code": "BS"
+}},{"Bahrain": {
+ "points": 0,
+ "participation": 0,
+ "code": "BH"
+}},{"Bangladesh": {
+ "points": 0,
+ "participation": 0,
+ "code": "BD"
+}},{"Barbados": {
+ "points": 0,
+ "participation": 0,
+ "code": "BB"
+}},{"Belarus": {
+ "points": 0,
+ "participation": 0,
+ "code": "BY"
+}},{"Belgium": {
+ "points": 0,
+ "participation": 0,
+ "code": "BE"
+}},{"Belize": {
+ "points": 0,
+ "participation": 0,
+ "code": "BZ"
+}},{"Benin": {
+ "points": 0,
+ "participation": 0,
+ "code": "BJ"
+}},{"Bhutan": {
+ "points": 0,
+ "participation": 0,
+ "code": "BT"
+}},{"Bolivia": {
+ "points": 0,
+ "participation": 0,
+ "code": "BO"
+}},{"Bosnia and Herzegovina": {
+ "points": 0,
+ "participation": 0,
+ "code": "BA"
+}},{"Botswana": {
+ "points": 0,
+ "participation": 0,
+ "code": "BW"
+}},{"Brazil": {
+ "points": 0,
+ "participation": 0,
+ "code": "BR"
+}},{"Brunei": {
+ "points": 0,
+ "participation": 0,
+ "code": "BN"
+}},{"Bulgaria": {
+ "points": 0,
+ "participation": 0,
+ "code": "BG"
+}},{"Burkina Faso": {
+ "points": 0,
+ "participation": 0,
+ "code": "BF"
+}},{"Burundi": {
+ "points": 0,
+ "participation": 0,
+ "code": "BI"
+}},{"Cabo Verde": {
+ "points": 0,
+ "participation": 0,
+ "code": "CV"
+}},{"Cambodia": {
+ "points": 0,
+ "participation": 0,
+ "code": "KH"
+}},{"Cameroon": {
+ "points": 0,
+ "participation": 0,
+ "code": "CM"
+}},{"Canada": {
+ "points": 0,
+ "participation": 0,
+ "code": "CA"
+}},{"Central African Republic": {
+ "points": 0,
+ "participation": 0,
+ "code": "CF"
+}},{"Chad": {
+ "points": 0,
+ "participation": 0,
+ "code": "TD"
+}},{"Chile": {
+ "points": 0,
+ "participation": 0,
+ "code": "CL"
+}},{"China": {
+ "points": 0,
+ "participation": 0,
+ "code": "CN"
+}},{"Colombia": {
+ "points": 0,
+ "participation": 0,
+ "code": "CO"
+}},{"Comoros": {
+ "points": 0,
+ "participation": 0,
+ "code": "KM"
+}},{"Congo": {
+ "points": 0,
+ "participation": 0,
+ "code": "CG"
+}},{"Costa Rica": {
+ "points": 0,
+ "participation": 0,
+ "code": "CR"
+}},{"Croatia": {
+ "points": 0,
+ "participation": 0,
+ "code": "HR"
+}},{"Cuba": {
+ "points": 0,
+ "participation": 0,
+ "code": "CU"
+}},{"Cyprus": {
+ "points": 0,
+ "participation": 0,
+ "code": "CY"
+}},{"Czech Republic": {
+ "points": 0,
+ "participation": 0,
+ "code": "CZ"
+}},{"Denmark": {
+ "points": 0,
+ "participation": 0,
+ "code": "DK"
+}},{"Djibouti": {
+ "points": 0,
+ "participation": 0,
+ "code": "DJ"
+}},{"Dominica": {
+ "points": 0,
+ "participation": 0,
+ "code": "DM"
+}},{"Dominican Republic": {
+ "points": 0,
+ "participation": 0,
+ "code": "DO"
+}},{"Ecuador": {
+ "points": 0,
+ "participation": 0,
+ "code": "EC"
+}},{"Egypt": {
+ "points": 0,
+ "participation": 0,
+ "code": "EG"
+}},{"El Salvador": {
+ "points": 0,
+ "participation": 0,
+ "code": "SV"
+}},{"Equatorial Guinea": {
+ "points": 0,
+ "participation": 0,
+ "code": "GQ"
+}},{"Eritrea": {
+ "points": 0,
+ "participation": 0,
+ "code": "ER"
+}},{"Estonia": {
+ "points": 0,
+ "participation": 0,
+ "code": "EE"
+}},{"Eswatini": {
+ "points": 0,
+ "participation": 0,
+ "code": "SZ"
+}},{"Ethiopia": {
+ "points": 0,
+ "participation": 0,
+ "code": "ET"
+}},{"Fiji": {
+ "points": 0,
+ "participation": 0,
+ "code": "FJ"
+}},{"Finland": {
+ "points": 0,
+ "participation": 0,
+ "code": "FI"
+}},{"France": {
+ "points": 0,
+ "participation": 0,
+ "code": "FR"
+}},{"Gabon": {
+ "points": 0,
+ "participation": 0,
+ "code": "GA"
+}},{"Gambia": {
+ "points": 0,
+ "participation": 0,
+ "code": "GM"
+}},{"Georgia": {
+ "points": 0,
+ "participation": 0,
+ "code": "GE"
+}},{"Germany": {
+ "points": 0,
+ "participation": 0,
+ "code": "DE"
+}},{"Ghana": {
+ "points": 0,
+ "participation": 0,
+ "code": "GH"
+}},{"Greece": {
+ "points": 0,
+ "participation": 0,
+ "code": "GR"
+}},{"Grenada": {
+ "points": 0,
+ "participation": 0,
+ "code": "GD"
+}},{"Guatemala": {
+ "points": 0,
+ "participation": 0,
+ "code": "GT"
+}},{"Guinea": {
+ "points": 0,
+ "participation": 0,
+ "code": "GN"
+}},{"Guinea-Bissau": {
+ "points": 0,
+ "participation": 0,
+ "code": "GW"
+}},{"Guyana": {
+ "points": 0,
+ "participation": 0,
+ "code": "GY"
+}},{"Haiti": {
+ "points": 0,
+ "participation": 0,
+ "code": "HT"
+}},{"Honduras": {
+ "points": 0,
+ "participation": 0,
+ "code": "HN"
+}},{"Hungary": {
+ "points": 0,
+ "participation": 0,
+ "code": "HU"
+}},{"Iceland": {
+ "points": 0,
+ "participation": 0,
+ "code": "IS"
+}},{"India": {
+ "points": 0,
+ "participation": 0,
+ "code": "IN"
+}},{"Indonesia": {
+ "points": 0,
+ "participation": 0,
+ "code": "ID"
+}},{"Iran": {
+ "points": 0,
+ "participation": 0,
+ "code": "IR"
+}},{"Iraq": {
+ "points": 0,
+ "participation": 0,
+ "code": "IQ"
+}},{"Ireland": {
+ "points": 0,
+ "participation": 0,
+ "code": "IE"
+}},{"Israel": {
+ "points": 0,
+ "participation": 0,
+ "code": "IL"
+}},{"Italy": {
+ "points": 0,
+ "participation": 0,
+ "code": "IT"
+}},{"Jamaica": {
+ "points": 0,
+ "participation": 0,
+ "code": "JM"
+}},{"Japan": {
+ "points": 0,
+ "participation": 0,
+ "code": "JP"
+}},{"Jordan": {
+ "points": 0,
+ "participation": 0,
+ "code": "JO"
+}},{"Kazakhstan": {
+ "points": 0,
+ "participation": 0,
+ "code": "KZ"
+}},{"Kenya": {
+ "points": 0,
+ "participation": 0,
+ "code": "KE"
+}},{"Kiribati": {
+ "points": 0,
+ "participation": 0,
+ "code": "KI"
+}},{"Korea, North": {
+ "points": 0,
+ "participation": 0,
+ "code": "KP"
+}},{"Korea, South": {
+ "points": 0,
+ "participation": 0,
+ "code": "KR"
+}},{"Kosovo": {
+ "points": 0,
+ "participation": 0,
+ "code": "XK"
+}},{"Kuwait": {
+ "points": 0,
+ "participation": 0,
+ "code": "KW"
+}},{"Kyrgyzstan": {
+ "points": 0,
+ "participation": 0,
+ "code": "KG"
+}},{"Laos": {
+ "points": 0,
+ "participation": 0,
+ "code": "LA"
+}},{"Latvia": {
+ "points": 0,
+ "participation": 0,
+ "code": "LV"
+}},{"Lebanon": {
+ "points": 0,
+ "participation": 0,
+ "code": "LB"
+}},{"Lesotho": {
+ "points": 0,
+ "participation": 0,
+ "code": "LS"
+}},{"Liberia": {
+ "points": 0,
+ "participation": 0,
+ "code": "LR"
+}},{"Libya": {
+ "points": 0,
+ "participation": 0,
+ "code": "LY"
+}},{"Liechtenstein": {
+ "points": 0,
+ "participation": 0,
+ "code": "LI"
+}},{"Lithuania": {
+ "points": 0,
+ "participation": 0,
+ "code": "LT"
+}},{"Luxembourg": {
+ "points": 0,
+ "participation": 0,
+ "code": "LU"
+}},{"Madagascar": {
+ "points": 0,
+ "participation": 0,
+ "code": "MG"
+}},{"Malawi": {
+ "points": 0,
+ "participation": 0,
+ "code": "MW"
+}},{"Malaysia": {
+ "points": 0,
+ "participation": 0,
+ "code": "MY"
+}},{"Maldives": {
+ "points": 0,
+ "participation": 0,
+ "code": "MV"
+}},{"Mali": {
+ "points": 0,
+ "participation": 0,
+ "code": "ML"
+}},{"Malta": {
+ "points": 0,
+ "participation": 0,
+ "code": "MT"
+}},{"Marshall Islands": {
+ "points": 0,
+ "participation": 0,
+ "code": "MH"
+}},{"Mauritania": {
+ "points": 0,
+ "participation": 0,
+ "code": "MR"
+}},{"Mauritius": {
+ "points": 0,
+ "participation": 0,
+ "code": "MU"
+}},{"Mexico": {
+ "points": 0,
+ "participation": 0,
+ "code": "MX"
+}},{"Micronesia": {
+ "points": 0,
+ "participation": 0,
+ "code": "FM"
+}},{"Moldova": {
+ "points": 0,
+ "participation": 0,
+ "code": "MD"
+}},{"Monaco": {
+ "points": 0,
+ "participation": 0,
+ "code": "MC"
+}},{"Mongolia": {
+ "points": 0,
+ "participation": 0,
+ "code": "MN"
+}},{"Montenegro": {
+ "points": 0,
+ "participation": 0,
+ "code": "ME"
+}},{"Morocco": {
+ "points": 0,
+ "participation": 0,
+ "code": "MA"
+}},{"Mozambique": {
+ "points": 0,
+ "participation": 0,
+ "code": "MZ"
+}},{"Myanmar": {
+ "points": 0,
+ "participation": 0,
+ "code": "MM"
+}},{"Namibia": {
+ "points": 0,
+ "participation": 0,
+ "code": "NA"
+}},{"Nauru": {
+ "points": 0,
+ "participation": 0,
+ "code": "NR"
+}},{"Nepal": {
+ "points": 0,
+ "participation": 0,
+ "code": "NP"
+}},{"Netherlands": {
+ "points": 0,
+ "participation": 0,
+ "code": "NL"
+}},{"New Zealand": {
+ "points": 0,
+ "participation": 0,
+ "code": "NZ"
+}},{"Nicaragua": {
+ "points": 0,
+ "participation": 0,
+ "code": "NI"
+}},{"Niger": {
+ "points": 0,
+ "participation": 0,
+ "code": "NE"
+}},{"Nigeria": {
+ "points": 0,
+ "participation": 0,
+ "code": "NG"
+}},{"North Macedonia": {
+ "points": 0,
+ "participation": 0,
+ "code": "MK"
+}},{"Norway": {
+ "points": 0,
+ "participation": 0,
+ "code": "NO"
+}},{"Oman": {
+ "points": 0,
+ "participation": 0,
+ "code": "OM"
+}},{
+  "Palestine": {"points": 0,"participation": 0,"code": "PS"
+  }
+},{"Pakistan": {
+ "points": 0,
+ "participation": 0,
+ "code": "PK"
+}},{"Palau": {
+ "points": 0,
+ "participation": 0,
+ "code": "PW"
+}},{"Panama": {
+ "points": 0,
+ "participation": 0,
+ "code": "PA"
+}},{"Papua New Guinea": {
+ "points": 0,
+ "participation": 0,
+ "code": "PG"
+}},{"Paraguay": {
+ "points": 0,
+ "participation": 0,
+ "code": "PY"
+}},{"Peru": {
+ "points": 0,
+ "participation": 0,
+ "code": "PE"
+}},{"Philippines": {
+ "points": 0,
+ "participation": 0,
+ "code": "PH"
+}},{"Poland": {
+ "points": 0,
+ "participation": 0,
+ "code": "PL"
+}},{"Portugal": {
+ "points": 0,
+ "participation": 0,
+ "code": "PT"
+}},{"Qatar": {
+ "points": 0,
+ "participation": 0,
+ "code": "QA"
+}},{"Romania": {
+ "points": 0,
+ "participation": 0,
+ "code": "RO"
+}},{"Russia": {
+ "points": 0,
+ "participation": 0,
+ "code": "RU"
+}},{"Rwanda": {
+ "points": 0,
+ "participation": 0,
+ "code": "RW"
+}},{"Saint Kitts and Nevis": {
+ "points": 0,
+ "participation": 0,
+ "code": "KN"
+}},{"Saint Lucia": {
+ "points": 0,
+ "participation": 0,
+ "code": "LC"
+}},{"Saint Vincent and the Grenadines": {
+ "points": 0,
+ "participation": 0,
+ "code": "VC"
+}},{"Samoa": {
+ "points": 0,
+ "participation": 0,
+ "code": "WS"
+}},{"San Marino": {
+ "points": 0,
+ "participation": 0,
+ "code": "SM"
+}},{"Sao Tome and Principe": {
+ "points": 0,
+ "participation": 0,
+ "code": "ST"
+}},{"Saudi Arabia": {
+ "points": 0,
+ "participation": 0,
+ "code": "SA"
+}},{"Senegal": {
+ "points": 0,
+ "participation": 0,
+ "code": "SN"
+}},{"Serbia": {
+ "points": 0,
+ "participation": 0,
+ "code": "RS"
+}},{"Seychelles": {
+ "points": 0,
+ "participation": 0,
+ "code": "SC"
+}},{"Sierra Leone": {
+ "points": 0,
+ "participation": 0,
+ "code": "SL"
+}},{"Singapore": {
+ "points": 0,
+ "participation": 0,
+ "code": "SG"
+}},{"Slovakia": {
+ "points": 0,
+ "participation": 0,
+ "code": "SK"
+}},{"Slovenia": {
+ "points": 0,
+ "participation": 0,
+ "code": "SI"
+}},{"Solomon Islands": {
+ "points": 0,
+ "participation": 0,
+ "code": "SB"
+}},{"Somalia": {
+ "points": 0,
+ "participation": 0,
+ "code": "SO"
+}},{"South Africa": {
+ "points": 0,
+ "participation": 0,
+ "code": "ZA"
+}},{"South Sudan": {
+ "points": 0,
+ "participation": 0,
+ "code": "SS"
+}},{"Spain": {
+ "points": 0,
+ "participation": 0,
+ "code": "ES"
+}},{"Sri Lanka": {
+ "points": 0,
+ "participation": 0,
+ "code": "LK"
+}},{"Sudan": {
+ "points": 0,
+ "participation": 0,
+ "code": "SD"
+}},{"Suriname": {
+ "points": 0,
+ "participation": 0,
+ "code": "SR"
+}},{"Sweden": {
+ "points": 0,
+ "participation": 0,
+ "code": "SE"
+}},{"Switzerland": {
+ "points": 0,
+ "participation": 0,
+ "code": "CH"
+}},{"Syria": {
+ "points": 0,
+ "participation": 0,
+ "code": "SY"
+}},{"Taiwan": {
+ "points": 0,
+ "participation": 0,
+ "code": "TW"
+}},{"Tajikistan": {
+ "points": 0,
+ "participation": 0,
+ "code": "TJ"
+}},{"Tanzania": {
+ "points": 0,
+ "participation": 0,
+ "code": "TZ"
+}},{"Thailand": {
+ "points": 0,
+ "participation": 0,
+ "code": "TH"
+}},{"Timor-Leste": {
+ "points": 0,
+ "participation": 0,
+ "code": "TL"
+}},{"Togo": {
+ "points": 0,
+ "participation": 0,
+ "code": "TG"
+}},{"Tonga": {
+ "points": 0,
+ "participation": 0,
+ "code": "TO"
+}},{"Trinidad and Tobago": {
+ "points": 0,
+ "participation": 0,
+ "code": "TT"
+}},{"Tunisia": {
+ "points": 0,
+ "participation": 0,
+ "code": "TN"
+}},{"Turkey": {
+ "points": 0,
+ "participation": 0,
+ "code": "TR"
+}},{"Turkmenistan": {
+ "points": 0,
+ "participation": 0,
+ "code": "TM"
+}},{"Tuvalu": {
+ "points": 0,
+ "participation": 0,
+ "code": "TV"
+}},{"Uganda": {
+ "points": 0,
+ "participation": 0,
+ "code": "UG"
+}},{"Ukraine": {
+ "points": 0,
+ "participation": 0,
+ "code": "UA"
+}},{"United Arab Emirates": {
+ "points": 0,
+ "participation": 0,
+ "code": "AE"
+}},{"United Kingdom": {
+ "points": 0,
+ "participation": 0,
+ "code": "GB"
+}},{"United States": {
+ "points": 0,
+ "participation": 0,
+ "code": "US"
+}},{"Uruguay": {
+ "points": 0,
+ "participation": 0,
+ "code": "UY"
+}},{"Uzbekistan": {
+ "points": 0,
+ "participation": 0,
+ "code": "UZ"
+}},{"Vanuatu": {
+ "points": 0,
+ "participation": 0,
+ "code": "VU"
+}},{"Vatican City": {
+ "points": 0,
+ "participation": 0,
+ "code": "VA"
+}},{"Venezuela": {
+ "points": 0,
+ "participation": 0,
+ "code": "VE"
+}},{"Vietnam": {
+ "points": 0,
+ "participation": 0,
+ "code": "VN"
+}},{"Yemen": {
+ "points": 0,
+ "participation": 0,
+ "code": "YE"
+}},{"Zambia": {
+ "points": 0,
+ "participation": 0,
+ "code": "ZM"
+}},{"Zimbabwe": {
+ "points": 0,
+ "participation": 0,
+ "code": "ZW"
+}
+  }
+  ]
