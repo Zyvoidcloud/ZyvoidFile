@@ -1,12 +1,45 @@
 [
-  ["ID", "NAME", "CODE COUNTRY", "POINT", "GENDER", "AGE", "HOBBY", "INSTAGRAM"],
-  { "628267": [
-    "Michie","KR",790,"⚢",17,"Coding","michie76"
-     ] },
-  { "363926": [
-    "Lapian","ID",60,"⚣",19,"Game","Lapiannn"
-  ] },
-  { "629462": [
-    "Gracie","JP",100,"?",26,"Music","Gracieee"
-  ] }
+  [
+    "ID",
+    "NAME",
+    "CODE COUNTRY",
+    "POINT",
+    "GENDER",
+    "AGE",
+    "HOBBY",
+    "INSTAGRAM"
+  ],
+  {
+    "628267": [
+      "Lyly Loveely",
+      "KR",
+      790,
+      "â¢",
+      17,
+      "Coding",
+      "lily475"
+    ]
+  },
+  {
+    "363926": [
+      "Lapian",
+      "ID",
+      60,
+      "â£",
+      19,
+      "Game",
+      "Lapiannn"
+    ]
+  },
+  {
+    "629462": [
+      "Gracie",
+      "JP",
+      100,
+      "?",
+      26,
+      "Music",
+      "Gracieee"
+    ]
+  }
 ]
